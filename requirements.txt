@@ -1,2 +1,4 @@
 numpy >= 1.14
 ply >= 3.10
+wheel
+matplotlib
