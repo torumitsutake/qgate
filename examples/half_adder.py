@@ -6,7 +6,7 @@ from qgate.script import *
 
 
 
-# Glover's algorithm
+# half adder algorithm
 
 # allocating qubit register
 qregs = new_qregs(3)
