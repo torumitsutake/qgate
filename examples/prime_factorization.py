@@ -39,7 +39,7 @@ circuit += [
 ]
 
 # measure
-refs = new_references(4)
+refs = new_references(2)
 circuit += [
     measure(refs[0], qregs[1]),
     measure(refs[1], qregs[0])
